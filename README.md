@@ -13,7 +13,7 @@ Each arithmetic operation is implemented as a separate method.
 
 ## Technologies Used
 - Java (JDK 17)
-- Cursor / VS Code
+- Eclipse
 
 ## How to Run
 1. Compile the program:
